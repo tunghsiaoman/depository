@@ -3,4 +3,4 @@
 # 总结、分析、思考、沉淀
 
 # Spring
-https://github.com/tunghsiaoman/depository/issues/1
+Spring Transactional解析
