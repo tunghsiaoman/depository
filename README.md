@@ -7,7 +7,7 @@
 * [Spring Transactional：概述](https://github.com/tunghsiaoman/depository/issues/1)
 * [Transactional特性](https://github.com/tunghsiaoman/depository/issues/1)
 
-### Spring security
+### Spring Security
 * [Spring Security：概述](https://github.com/tunghsiaoman/depository/issues/1)
 * [Spring Security和shiro那些事儿](https://github.com/tunghsiaoman/depository/issues/1)
 
