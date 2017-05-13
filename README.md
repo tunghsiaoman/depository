@@ -3,5 +3,4 @@
 # 总结、分析、思考、沉淀
 
 ## Spring
-Spring Transactional解析
-[Spring Transactional：概述](https://github.com/tunghsiaoman/depository/issues/1)
+* [Spring Transactional：概述](https://github.com/tunghsiaoman/depository/issues/1)
