@@ -2,8 +2,6 @@
 
 ### 最无益,只怕一日曝十日寒.
 
-# 总结、分析、思考、沉淀
-
 ## Spring
 ### Spring Transactional
 * [Spring Transactional：概述](https://github.com/tunghsiaoman/depository/issues/1)
